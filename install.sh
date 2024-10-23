@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # NEEDS MORE TESTING!!
+# early version tested worked
 
 print_step() {
     echo "==> $1"
